@@ -1,0 +1,15 @@
+Token: 
+Activities:
+- Managing the server
+- Moderating chats
+- Helping members
+- Running commands
+ActivityInterval: 60
+NoticeWebhook: https://discord.co9
+ServerID: 
+EmbedColor: '#f171fa'
+DefaultStaffRole: 
+StaffAnnouncementChannel:
+Version: '1.2'
+SupportServer: 
+Developer: 

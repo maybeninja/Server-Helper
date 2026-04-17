@@ -1,0 +1,5 @@
+.env
+settings.yaml
+Database/
+*.pyc
+__pycache__/

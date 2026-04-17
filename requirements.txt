@@ -1,0 +1,7 @@
+discord
+discord_webhook
+aiohttp
+pyyaml
+Pillow
+jishaku
+colorama
